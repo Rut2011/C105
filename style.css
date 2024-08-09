@@ -1,0 +1,17 @@
+body{
+    background: rgb(161, 0, 0);
+    text-align: center;
+    }
+    .heading
+    {
+        width: 100%;
+        font-size: 25px;
+    }
+    #camera{
+        width: 350px;
+        height: 300px;
+    }
+    #name_of_objects,#result_object_accuracy,#result_object_name{
+    color: rgba(64, 137, 70, 0.805);
+    }
+    
